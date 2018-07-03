@@ -1,0 +1,6 @@
+datasets/
+logs/
+samples/
+*.pyc
+*.ipynb
+yourvoice8282-3b0f7e877dc6.json

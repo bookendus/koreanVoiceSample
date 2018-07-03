@@ -1,0 +1,19 @@
+
+# for download.py
+m3u8==0.3.5
+requests==2.18.4
+beautifulsoup4==4.6.0
+
+# utils
+tqdm==4.19.2
+
+# audio
+librosa==0.5.1
+numpy==1.13.3
+pydub==0.20.0
+tensorflow
+tensorflow-tensorboard
+scipy
+
+# normalization
+kolm
