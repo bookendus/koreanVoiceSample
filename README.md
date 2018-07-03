@@ -66,11 +66,7 @@ python -m recognition.google --audio_pattern "./datasets/default/wavs/*.*.wav"
 
 python -m recognition.normalize --recognition_path "./datasets/default/recognition.json"
 
-6. Finally, generated numpy files which will be used in training.
-
-python3 -m datasets.generate_data ./datasets/default/metadata.csv
-
-
+6. End
 
 
 
